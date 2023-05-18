@@ -30,10 +30,11 @@ The following image shows the web application's appearance and functionality:
 
 ## Link
 
-https://github.com/Coridane/challenge01
+Repo: https://github.com/Coridane/challenge01
+Website: https://coridane.github.io/challenge01
 
 ## Resources
 
 Semantic Names: https://www.w3schools.com/html/html5_semantic_elements.asp
 
-Standards for Alt Text: https://blog.hubspot.com/marketing/image-alt-text (under Image Alt Text Best Practices)
+Standards for Alt Text: https://blog.hubspot.com/marketing/image-alt-text (under Image Alt Text Best Practices) 
