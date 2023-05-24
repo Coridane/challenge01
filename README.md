@@ -30,8 +30,8 @@ The following image shows the web application's appearance and functionality:
 
 ## Link
 
-Repo: https://github.com/Coridane/challenge01
-Website: https://coridane.github.io/challenge01
+Repo: https://github.com/Coridane/horiseon
+Website: https://coridane.github.io/horiseon
 
 ## Resources
 
